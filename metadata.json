@@ -1,0 +1,6 @@
+{
+  "name": "Narativa",
+  "description": "Platform streaming video naratif dan edukasi modern dengan tampilan dark mode sleek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,4 @@
+save_bookmark | soft_selling | Simpan dulu postingan ini, kamu pasti butuh saat praktik setup project baru nanti. | 
+dm_lead_gen | soft_selling | Komen atau DM kata kunci TEMPLATE untuk dapat boilerplate proyek Next.js-nya gratis. | TEMPLATE
+dm_lead_gen | hard_selling | Ketik kata kunci DISKON di komentar sekarang untuk klaim voucher potongan 50%. | DISKON
+engagement_share | soft_selling | Tim kamu lebih suka Tailwind atau CSS biasa? Adu argumen di kolom komentar, lalu bagikan ke grup tim! | 

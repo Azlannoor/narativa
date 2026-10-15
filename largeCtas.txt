@@ -1,0 +1,5 @@
+save_bookmark | hard_selling | Bookmark sekarang juga sebelum promo pendaftaran ditutup malam ini! | 
+engagement_share | storyteller | Pernah berada di posisi yang sama saat mulai merintis? Ceritakan pengalaman kamu di komentar. | 
+save_bookmark | storyteller | Simpan cerita ini sebagai pengingat saat kamu merasa lelah menghadapi proses belajar. | 
+dm_lead_gen | soft_selling | DM kata kunci AUDIT untuk analisis profil gratis dari tim kami. | AUDIT
+engagement_share | hard_selling | Bagikan postingan ini ke teman kamu yang butuh solusi ini sekarang juga! | 

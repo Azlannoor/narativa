@@ -1,0 +1,21 @@
+# robots.txt for Narativa Studio
+# Memblokir area privat kreator dari indeks mesin pencari
+User-agent: *
+Allow: /
+Allow: /fitur
+Allow: /harga
+Allow: /kebijakan-privasi
+Allow: /syarat-ketentuan
+Disallow: /dashboard/
+Disallow: /dashboard
+Disallow: /library/
+Disallow: /library
+Disallow: /skrip/
+Disallow: /skrip
+Disallow: /pengaturan/
+Disallow: /pengaturan
+Disallow: /masuk
+Disallow: /daftar
+Disallow: /api/
+
+Sitemap: https://narativa.id/sitemap.xml

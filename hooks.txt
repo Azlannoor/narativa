@@ -1,0 +1,3 @@
+kesalahan_fatal | Kamu masih {{kebiasaan}}? Ini alasan akun kamu bisa diretas dalam 5 menit. | kebiasaan | Gerakan zoom in cepat ke layar HP + suara jeda statis. | Kamu masih pakai password yang sama di semua browser? Ini alasan akun kamu bisa diretas dalam 5 menit.
+kontroversial | Belajar {{topik}} tanpa {{metode}} itu buang waktu. Setuju atau tidak? | topik,metode | Tatapan diam tanpa ekspresi ke kamera selama 1.5 detik sebelum bicara. | Belajar coding tanpa bootcamp mahal itu buang waktu. Setuju atau tidak?
+studi_kasus | Klien kami naikkan omzet {{angka}}% hanya dengan mengubah satu baris di {{area}}. | angka,area | Tampilkan grafik analitik melonjak tajam dalam 1 detik awal. | Klien kami naikkan omzet 340% hanya dengan mengubah satu baris di halaman checkout.

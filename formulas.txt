@@ -1,0 +1,226 @@
+[
+  {
+    "code": "aida",
+    "name": "AIDA (Attention, Interest, Desire, Action)",
+    "objective": "Untuk konten berorientasi edukasi mendalam menuju konversi dan retensi tinggi.",
+    "steps": [
+      {
+        "key": "attention",
+        "label": "Attention (0–3 detik)",
+        "guide": "Tarik atensi penuh penonton dengan hook tajam atau masalah mendesak.",
+        "example": "Kamu masih simpan password penting langsung di autocomplete browser?"
+      },
+      {
+        "key": "interest",
+        "label": "Interest (4–15 detik)",
+        "guide": "Kembangkan rasa ingin tahu dengan membedah akar masalah secara mengejutkan.",
+        "example": "Banyak ekstensi mencurigakan yang diam-diam mengekstrak data kredensial tanpa izin."
+      },
+      {
+        "key": "desire",
+        "label": "Desire (16–35 detik)",
+        "guide": "Tunjukkan transformasi solusi atau betapa mudahnya cara menyelesaikan masalah.",
+        "example": "Dengan mengaktifkan Master Password atau password manager opensource, data kamu aman 100%."
+      },
+      {
+        "key": "action",
+        "label": "Action (36–45 detik)",
+        "guide": "Instruksikan satu tindakan jelas tanpa ambiguitas (CTA spesifik).",
+        "example": "Simpan video ini sekarang agar kamu ingat langkah proteksinya saat setup laptop!"
+      }
+    ]
+  },
+  {
+    "code": "pas",
+    "name": "PAS (Problem, Agitate, Solution)",
+    "objective": "Untuk pembahasan masalah teknis spesifik, studi kasus tajam, dan membangun otoritas.",
+    "steps": [
+      {
+        "key": "problem",
+        "label": "Problem (Masalah)",
+        "guide": "Sebutkan pain-point spesifik yang paling sering dialami audiens sasaran.",
+        "example": "Sudah belajar coding berbulan-bulan tapi tetap macet saat disuruh buat proyek mandiri?"
+      },
+      {
+        "key": "agitate",
+        "label": "Agitate (Pertegas Dampak)",
+        "guide": "Jelaskan konsekuensi buruk jika masalah ini terus diabaikan.",
+        "example": "Kalau kamu terjebak di tutorial hell terus, kamu tidak akan pernah siap menghadapi tes teknis kerja."
+      },
+      {
+        "key": "solution",
+        "label": "Solution (Solusi & Aksi)",
+        "guide": "Berikan satu framework langkah nyata yang membongkar kebuntuan tersebut.",
+        "example": "Mulai teknik build-in-public: buat 1 fitur kecil setiap hari tanpa menonton video panduan."
+      }
+    ]
+  },
+  {
+    "code": "bab",
+    "name": "BAB (Before, After, Bridge)",
+    "objective": "Untuk narasi transformasi, refleksi personal, dan studi kasus sebelum-sesudah.",
+    "steps": [
+      {
+        "key": "before",
+        "label": "Before (Kondisi Awal)",
+        "guide": "Gambarkan situasi sulit, frustrasi, atau keterbatasan sebelum menemukan formula baru.",
+        "example": "Tahun lalu saya butuh 4 jam hanya untuk merangkai satu skrip video Reels yang kaku."
+      },
+      {
+        "key": "after",
+        "label": "After (Kondisi Ideal)",
+        "guide": "Tunjukkan pencapaian nyata saat ini yang membuat proses jauh lebih efisien.",
+        "example": "Sekarang 3 video siap rekam bisa saya selesaikan dalam waktu kurang dari 30 menit."
+      },
+      {
+        "key": "bridge",
+        "label": "Bridge (Jembatan Solusi)",
+        "guide": "Ungkap metode rahasia atau sistem modular yang menjadi jembatan transformasi.",
+        "example": "Kuncinya ada di 5 modul template: ide pilar, hook interupsi, dan panduan B-roll."
+      }
+    ]
+  },
+  {
+    "code": "heros_journey",
+    "name": "Hero's Journey (Perjalanan Pahlawan)",
+    "objective": "Untuk konten storytelling mendalam, personal branding, dan membangun keterikatan emosional.",
+    "steps": [
+      {
+        "key": "character",
+        "label": "1. Karakter & Status Quo",
+        "guide": "Perkenalkan latar belakang yang membumi dan dapat dirasakan oleh audiens.",
+        "example": "Saya memulai karier dari nol tanpa latar belakang IT di kamar kos sempit."
+      },
+      {
+        "key": "conflict",
+        "label": "2. Konflik & Rintangan",
+        "guide": "Ceritakan titik kegagalan terbesar yang hampir membuat Anda menyerah.",
+        "example": "Dua proyek pertama saya ditolak klien dan tabungan saya menipis hingga batas kritis."
+      },
+      {
+        "key": "climax",
+        "label": "3. Titik Balik (Klimaks)",
+        "guide": "Momen pencerahan di mana Anda mengubah strategi atau menemukan mentor.",
+        "example": "Saat saya berhenti mengejar kesempurnaan dan mulai merilis karya nyata setiap minggu."
+      },
+      {
+        "key": "resolution",
+        "label": "4. Kesimpulan & Nilai",
+        "guide": "Pelajaran berharga yang dapat dipetik oleh siapa pun yang sedang berjuang.",
+        "example": "Konsistensi kecil yang tidak terlihat selalu mengalahkan bakat yang tidak diasah."
+      }
+    ]
+  },
+  {
+    "code": "4p",
+    "name": "4P (Picture, Promise, Prove, Push)",
+    "objective": "Untuk penawaran edukasi berorientasi bukti sosial dan dorongan tindakan.",
+    "steps": [
+      {
+        "key": "picture",
+        "label": "Picture (Gambaran)",
+        "guide": "Ajak audiens membayangkan kondisi ideal jika pekerjaan mereka selesai otomatis.",
+        "example": "Bayangkan kamu bisa punya bank konten 30 hari tanpa pusing mikir ide tiap malam."
+      },
+      {
+        "key": "promise",
+        "label": "Promise (Janji Nilai)",
+        "guide": "Janjikan solusi konkret yang realistis.",
+        "example": "Dengan sistem batch scripting 5 langkah ini, kamu hanya butuh 1 sesi weekend."
+      },
+      {
+        "key": "prove",
+        "label": "Prove (Bukti)",
+        "guide": "Sajikan data atau contoh nyata yang sudah terbukti.",
+        "example": "Lebih dari 40 kreator telah menerapkan metode ini dan menaikkan konsistensi posting 3x."
+      },
+      {
+        "key": "push",
+        "label": "Push (Dorongan)",
+        "guide": "Berikan dorongan penutup untuk segera bertindak.",
+        "example": "Cek link panduannya di bio dan terapkan di sesi rekaman kamu besok!"
+      }
+    ]
+  },
+  {
+    "code": "acca",
+    "name": "ACCA (Awareness, Comprehension, Conviction, Action)",
+    "objective": "Untuk materi edukasi teknis bertingkat yang membutuhkan pemahaman mendalam.",
+    "steps": [
+      {
+        "key": "awareness",
+        "label": "Awareness (Sadar Masalah)",
+        "guide": "Tunjukkan bahwa ada celah yang sering diabaikan.",
+        "example": "Sadarkah kamu kalau 80% audiens keluar di 3 detik pertama bukan karena isi videomu buruk?"
+      },
+      {
+        "key": "comprehension",
+        "label": "Comprehension (Paham Sebab)",
+        "guide": "Jelaskan alasan ilmiah atau psikologis di balik fenomena tersebut.",
+        "example": "Otak manusia membutuhkan pattern interrupt visual agar menghentikan scroll refleks."
+      },
+      {
+        "key": "conviction",
+        "label": "Conviction (Yakin Perlu Solusi)",
+        "guide": "Tanamkan keyakinan bahwa solusi ini mutlak diperlukan.",
+        "example": "Tanpa hook pembuka yang terencana, konten terbaikmu tidak akan pernah sempat didengar."
+      },
+      {
+        "key": "action",
+        "label": "Action (Langkah Konkret)",
+        "guide": "Arahkan pada aksi sederhana.",
+        "example": "Gunakan 3 template hook kesalahan fatal ini untuk video kamu selanjutnya."
+      }
+    ]
+  },
+  {
+    "code": "teardown",
+    "name": "The Teardown (Bedah Kasus Teknis)",
+    "objective": "Menganalisis sistem atau konten orang lain untuk membuktikan keahlian teknis Anda.",
+    "steps": [
+      {
+        "key": "hook_teardown",
+        "label": "1. Subjek yang Dibedah",
+        "guide": "Sebutkan studi kasus atau brand populer yang akan dibongkar.",
+        "example": "Mari kita bedah kenapa video edukasi kreator ini bisa konsisten dapat 500k views."
+      },
+      {
+        "key": "anatomy",
+        "label": "2. Anatomi & Komponen",
+        "guide": "Bongkar per bagian apa saja elemen yang membuatnya bekerja.",
+        "example": "Perhatikan transisi 2 detik pertama: dia memotong jeda nafas dan memasang teks tebal warna kuning."
+      },
+      {
+        "key": "takeaway",
+        "label": "3. Pola yang Bisa Ditiru",
+        "guide": "Berikan formula siap pakai yang bisa ditiru oleh audiens.",
+        "example": "Formula ini disebut 3-second pacing. Terapkan pada video kamu dengan membuang intro basa-basi."
+      }
+    ]
+  },
+  {
+    "code": "playbook",
+    "name": "The Playbook (Panduan Langkah demi Langkah)",
+    "objective": "Memberikan SOP atau checklist aksi yang bernilai retensi simpan sangat tinggi.",
+    "steps": [
+      {
+        "key": "goal",
+        "label": "1. Target Akhir Playbook",
+        "guide": "Sebutkan tujuan akhir yang akan dicapai secara spesifik.",
+        "example": "Playbook lengkap setup git workflow untuk tim solo developer."
+      },
+      {
+        "key": "step_by_step",
+        "label": "2. Langkah 1 sampai 3",
+        "guide": "Rincikan langkah secara padat dan berurutan.",
+        "example": "Langkah 1: buat protected branch di GitHub. Langkah 2: pasang linter husky. Langkah 3: aktifkan CI action."
+      },
+      {
+        "key": "summary",
+        "label": "3. Catatan Penerapan",
+        "guide": "Berikan tips penting untuk menghindari kegagalan implementasi.",
+        "example": "Jangan pernah bypass rules walau sedang memperbaiki hotfix mendesak."
+      }
+    ]
+  }
+]
